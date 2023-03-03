@@ -1,0 +1,17 @@
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/bin/Debug/net7.0/ABSTRACT_class
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/bin/Debug/net7.0/ABSTRACT_class.deps.json
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/bin/Debug/net7.0/ABSTRACT_class.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/bin/Debug/net7.0/ABSTRACT_class.dll
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/bin/Debug/net7.0/ABSTRACT_class.pdb
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ABSTRACT_class.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ABSTRACT_class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ABSTRACT_class.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ABSTRACT_class.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ABSTRACT_class.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ABSTRACT_class.csproj.CopyComplete
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ABSTRACT_class.dll
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/refint/ABSTRACT_class.dll
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ABSTRACT_class.pdb
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ABSTRACT_class.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/obj/Debug/net7.0/ref/ABSTRACT_class.dll

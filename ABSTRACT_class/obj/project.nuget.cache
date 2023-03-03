@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nd0IIpbeePDQ5OTd/WysSPi5BvWbDJW5+UlUTF0r8txk3q3it3c7ok9r/QpUMekrDqQ0OvSrLozceSDm1DvB7w==",
+  "success": true,
+  "projectFilePath": "/Users/yellobunny/Projects/c_sharp/ABSTRACT_class/ABSTRACT_class.csproj",
+  "expectedPackageFiles": [
+    "/Users/yellobunny/.nuget/packages/microsoft.dotnet.platformabstractions/5.0.0-preview.5.20278.1/microsoft.dotnet.platformabstractions.5.0.0-preview.5.20278.1.nupkg.sha512"
+  ],
+  "logs": []
+}
